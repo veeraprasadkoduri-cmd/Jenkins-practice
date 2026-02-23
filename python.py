@@ -1,1 +1,1 @@
-Hello Jenkins CI CD Success 
+print("Hello Jenkins CI CD Success")
